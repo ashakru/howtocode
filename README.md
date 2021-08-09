@@ -1,5 +1,11 @@
 # How to (code)  
-Useful resources for learning bioinformatics  
+Useful resources for bioinformatics  
+
+
+## Useful R packages  
+
+### Graphics
+[Paletter](https://github.com/EmilHvitfeldt/paletteer): a comprehensive collection of color palettes in R with unified interface  
 
 ## Workflow Management Systems
 
