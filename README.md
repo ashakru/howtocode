@@ -1,11 +1,15 @@
 # How to (code)  
 Useful resources for bioinformatics  
 
-
 ## Useful R packages  
+
+### Gene ontology, GSEA and pathway analysis 
+[clusterProfiler](https://bioconductor.org/packages/release/bioc/html/clusterProfiler.html): GE, GSEA and pathway analysis in R  
+
 
 ### Graphics
 [Paletter](https://github.com/EmilHvitfeldt/paletteer): a comprehensive collection of color palettes in R with unified interface  
+[ComplexHeatmap](https://www.bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): powerful tool for creating beautiful heatmaps in R  
 
 ## Workflow Management Systems
 
