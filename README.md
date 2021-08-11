@@ -11,7 +11,8 @@ Useful resources for bioinformatics
 [Paletter](https://github.com/EmilHvitfeldt/paletteer): a comprehensive collection of color palettes in R with unified interface  
 [ComplexHeatmap](https://www.bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): powerful tool for creating beautiful heatmaps in R  
 
-## General coding and bioinformatics
+## General coding, bioinformatics and statistics  
+[An Introduction to Statistical Learning](https://www.statlearning.com): Great introduction to statistics and ML with examples in R, easy to follow.  
 [Starting with HPC, general tips](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1009207): Article published in PLOS Computational with usefull skills and general etiquette for using HPC  
 
 ## Workflow Management Systems
