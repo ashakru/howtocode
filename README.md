@@ -12,6 +12,7 @@ Useful resources for bioinformatics
 [ComplexHeatmap](https://www.bioconductor.org/packages/release/bioc/html/ComplexHeatmap.html): powerful tool for creating beautiful heatmaps in R  
 [Pathwork](https://patchwork.data-imaginist.com): R package to quickly compose multiple plots together (easier than `ggarrange`, but less customisable).   
 [ggvenn](https://github.com/yanlinlin82/ggvenn): Venn Diagrams in R using `ggplot` syntax.  
+[ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/): R package to generate clean, publication ready plots with stats  
 
 ## General coding, bioinformatics and statistics  
 [An Introduction to Statistical Learning](https://www.statlearning.com): Great introduction to statistics and ML with examples in R, easy to follow.  
