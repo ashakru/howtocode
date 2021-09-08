@@ -13,6 +13,7 @@ Useful resources for bioinformatics
 [Pathwork](https://patchwork.data-imaginist.com): R package to quickly compose multiple plots together (easier than `ggarrange`, but less customisable).   
 [ggvenn](https://github.com/yanlinlin82/ggvenn): Venn Diagrams in R using `ggplot` syntax.  
 [ggpubr](http://www.sthda.com/english/articles/24-ggpubr-publication-ready-plots/): R package to generate clean, publication ready plots with stats  
+[drawCell](https://github.com/svalvaro/drawCell): R package to draw and color cell pictures from [SwissBioPic](https://www.swissbiopics.org)  
 
 ## General coding, bioinformatics and statistics  
 [An Introduction to Statistical Learning](https://www.statlearning.com): Great introduction to statistics and ML with examples in R, easy to follow.  
