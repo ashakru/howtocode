@@ -24,7 +24,7 @@ A full data science and genomics course path is as follows:
 6. [Case Studies in Functional Genomics](https://www.edx.org/learn/data-analysis/harvard-university-case-studies-in-functional-genomics)
 7. [Advanced Bioconductor](https://www.edx.org/learn/data-analysis/harvard-university-advanced-bioconductor)
 
-After you ammas some super basic coding skills, a problem-based learning is a rewarding way forward, see [Rosalin exercises](https://rosalind.info/problems/list-view/)  
+After you amass some super basic coding skills, a problem-based learning is a rewarding way forward, see [Rosalin exercises](https://rosalind.info/problems/list-view/)  
 Another practical exercise would be to think about the bioinformatics behind these 2 genomic stories: [story 1](https://pubpeer.com/publications/E61AC72AE0402C6A62A84E36ED2AEA#17), [story 2](https://pubpeer.com/publications/64D40E5556E39B682E80028226D756#17)
 
 [GATK Workshop](https://www.youtube.com/watch?v=sM9cQPWwvn4&list=PLjiXAZO27elDHGlQwfd06r7coiFtpPkvI) - a quick and friendly overview of GATK Best practices and variant calling for genomics   
