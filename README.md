@@ -18,6 +18,7 @@ Useful resources for bioinformatics
 [R for Data Science](https://r4ds.hadley.nz/): classic book from Hadley Wickham on using R for general data analysis   
 [ggplot2: Elegant Graphics for Data Analysis](https://ggplot2-book.org): another Wickham's classic on data visualisation   
 [Machine Learning courses from Google](https://developers.google.com/machine-learning): intoduction to ML    
+[Resources from Babraham Bioinformatics](https://www.bioinformatics.babraham.ac.uk): especially the legendary stats bootcamp 
 
 **Michael Love's EDX courses**  
 A series of [free EDX courses](https://www.edx.org/es/bio/michael-love) (unless you want to pay for the certificate - completely useless, if you ask me).  
